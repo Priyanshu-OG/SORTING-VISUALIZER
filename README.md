@@ -1,2 +1,2 @@
-# SORTING-VISUALIZER
-YOU CAN UNDERSTAND AND VISUALIZE HOW A SORTING ALGORITHM IS WORKING
+# sorting-visualiser
+This a website in which various sorting algorithms can be visualized.
